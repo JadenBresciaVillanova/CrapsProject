@@ -1,8 +1,6 @@
 /*** Craps
 20 points
 
-You may work in teams of two if you like. If so, just hand in one report.
-
 Write a Java program that investigates the game of craps. Use it to 
 analyze your chances of winning a round. Craps is played by a "shooter"
 who continually rolls a pair of dice, as decribed below.
